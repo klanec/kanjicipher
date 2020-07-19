@@ -72,7 +72,7 @@ def main():
         print(operation[op].__name__)
         in_text = rp.read()
         out_text = operation[op](in_text)
-        wp.write(out_text)#.encode("UTF-8"))
+        wp.write(out_text)
 
 
 if __name__=="__main__":
