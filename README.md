@@ -12,4 +12,5 @@ Used `tqdm` for progress bar, you can simply remove that from the script if you 
 
 # Usage
 `python3 kanjicipher.py -e PLAINTEXT.txt`
+
 `python3 kanjicipher.py -d CIPHERTEXT.txt`
